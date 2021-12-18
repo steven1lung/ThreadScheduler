@@ -1,0 +1,11 @@
+{
+    "Threads":[
+        {
+            "name"  : "f1",
+            "entry function": "Function1",
+            "priority":"M",
+            "cancel mode":"1"
+        }
+  
+    ]
+}

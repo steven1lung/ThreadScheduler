@@ -2,6 +2,8 @@
 
 int main(int argc,char** argv)
 {
+
+    Dispatcher();
     StartSchedulingSimulation();
     return 0;
 }
